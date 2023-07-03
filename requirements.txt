@@ -1,0 +1,2 @@
+# Editable install with no version control (web-hw2==0.1.0)
+# -e d:\github\python-web\web-hw2
